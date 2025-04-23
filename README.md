@@ -1,6 +1,6 @@
 # AdMestrado - Plataforma de Análise de Editais para Mestrado em Ciências de Dados
 
-https://huggingface.co/spaces/Crislene/AdMestrado
+🔗 **Acesse o projeto:** [Hugging Face Space](https://huggingface.co/spaces/Crislene/AdMestrado)
 
 ## Visão Geral
 O **AdMestrado** é uma plataforma inteligente para análise automatizada de editais de programas de mestrado em Ciências de Dados. Utilizando técnicas de Processamento de Linguagem Natural (PNL) e aprendizado de máquina, a plataforma extrai requisitos de editais em PDF e classifica candidatos com base em critérios como experiência, publicações, inglês e conhecimentos específicos.
